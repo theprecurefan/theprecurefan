@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+ <style>
+  h4 { color:blue;}
+  p { color:purple;}
+ </style>
 <h4> Hello, I am Amani! </h4>
 <p> I am interested in history and magical girls
 <br>

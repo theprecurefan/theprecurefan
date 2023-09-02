@@ -2,7 +2,7 @@
 <html>
  <head>
  <style>
-  h4 { color:blue;}
+  h { color:blue;}
   p { color:purple;}
  </style>
  </head>
@@ -14,5 +14,7 @@ I am currently learning html, css, and python. I originally wanted to learn how 
 <br>
 It's nice to meet you.
  </p>
+
  </body>
+
 </html>

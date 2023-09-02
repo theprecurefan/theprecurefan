@@ -4,6 +4,7 @@
   h4 { color:blue;}
   p { color:purple;}
  </style>
+ <body>
 <h4> Hello, I am Amani! </h4>
 <p> I am interested in history and magical girls
 <br>
@@ -11,4 +12,5 @@ I am currently learning html, css, and python. I originally wanted to learn how 
 <br>
 It's nice to meet you.
  </p>
+ </body>
 </html>
